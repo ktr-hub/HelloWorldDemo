@@ -8,7 +8,6 @@ namespace ForGit
         {
             Console.WriteLine("Hello Everyonee!");
             Console.WriteLine("In MasterBranch!");
-            Console.WriteLine("In DemoBranch!?");
         }
     }
 }
